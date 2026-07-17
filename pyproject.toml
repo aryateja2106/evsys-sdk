@@ -24,7 +24,7 @@ tinker = [
     "chz",
 ]
 local = [
-    "torch>=2.4",
+    "torch>=2.13.0",
     "transformers>=4.40",
     "trl>=0.20",
     "peft>=0.10",
